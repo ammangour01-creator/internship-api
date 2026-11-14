@@ -4,7 +4,7 @@ A Node.js + Express API for internship records with validation, pagination and S
 All data is fictional (EdVyro training material).
 
 ## Tech
-- Node.js 18+ and Express
+- Node.js 22 or newer, and Express
 - SQLite via `better-sqlite3` (file database, no separate server needed)
 
 ## Setup
