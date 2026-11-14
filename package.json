@@ -1,0 +1,15 @@
+{
+  "name": "internship-api",
+  "version": "1.0.0",
+  "description": "REST API for internship records (Express + SQLite)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed/seed.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^13.1.1",
+    "express": "^4.21.0"
+  }
+}
